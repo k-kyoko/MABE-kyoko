@@ -1,0 +1,24 @@
+% World
+  + Berry
+  + Xor
+  * Test
+
+% Genome
+  + Multi
+  * Circular
+  
+% Brain
+  + Markov
+  * CGP
+  + LSTM
+  + ConstantValues
+  + Human
+  + Wire
+	
+% Optimizer
+  * Simple
+
+% Archivist
+  + Default
+  + SSwD
+  * LODwAP
